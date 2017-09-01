@@ -1,6 +1,11 @@
 # exclude everything
-!/*
-!/a/*
+#!/*
+#!/a/*
 
 # exception to the rule
 #!/c.txt
+a.txt
+b.txt
+c.txt
+/a
+.gitignore
