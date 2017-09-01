@@ -1,5 +1,5 @@
 # exclude everything
-/b.txt
+/*
 
 # exception to the rule
-!/*
+/c.txt
