@@ -1,6 +1,6 @@
 # exclude everything
 !/*
-/a/*
+!/a/*
 
 # exception to the rule
 #!/c.txt
